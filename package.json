@@ -44,6 +44,6 @@
     "typescript": "^3.4.5"
   },
   "dependencies": {
-    "jest-mock-promise": "^1.0.23"
+    "jest-mock-promise": "git://github.com/Vulpinity/jest-mock-promise.git#bc8ba30baa489bdbe99a619d6b64c8b4c6fa0eaf"
   }
 }
